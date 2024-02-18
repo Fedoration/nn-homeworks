@@ -161,3 +161,4 @@ cython_debug/
 #.idea/
 hw2/MNIST
 hw3/data
+hw4/MNIST
