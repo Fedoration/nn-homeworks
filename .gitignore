@@ -163,3 +163,8 @@ hw2/MNIST
 hw3/data
 hw4/MNIST
 hw6/Soccer ball.v1i.voc
+hw7/VOCdevkit
+hw7/dataset
+hw7/lightning_logs
+hw7/seminar.py
+hw7/augmentations.py
