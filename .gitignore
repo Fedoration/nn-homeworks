@@ -168,3 +168,5 @@ hw7/dataset
 hw7/lightning_logs
 hw7/seminar.py
 hw7/augmentations.py
+hw9/results
+hw9/wandb
