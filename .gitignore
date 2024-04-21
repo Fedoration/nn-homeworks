@@ -168,5 +168,10 @@ hw7/dataset
 hw7/lightning_logs
 hw7/seminar.py
 hw7/augmentations.py
+hw8/cars_test
+hw8/cars_train
+hw8/devkit
+hw8/cars_annos.mat
+hw8/vit_b_16-20_epochs.pth
 hw9/results
 hw9/wandb
