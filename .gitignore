@@ -175,3 +175,5 @@ hw8/cars_annos.mat
 hw8/vit_b_16-20_epochs.pth
 hw9/results
 hw9/wandb
+hw10/data
+hw10/fashion_mnist
