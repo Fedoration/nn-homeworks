@@ -177,3 +177,6 @@ hw9/results
 hw9/wandb
 hw10/data
 hw10/fashion_mnist
+hw11/lightning_logs
+hw11/data
+hw11/models
